@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779425963746",
+    "project_id": "firebase-vtelege"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779425963746:android:1469d53268a60667",
+        "android_client_info": {
+          "package_name": "com.chip0llino.vtelege.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779425963746-on0uab497025irerus8sbul8ugve5dl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDDIQydyrjZuYZrDQPjQu89FVZ3O6dpyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
